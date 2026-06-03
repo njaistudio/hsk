@@ -1,4 +1,5 @@
-# Welcome to Kotoba: JLPT N5-N1 Vocabulary
+# Welcome to HSK 1-9
+
 
 ## Instructions for deleting an account
 
@@ -6,7 +7,7 @@
 1. Tap on the` Delete account` button
 1. Confirm account deletion
 1. Complete
-![Screenshot_1744452003](https://github.com/user-attachments/assets/dafc259d-7c76-4d7b-85ea-40e78ed0247e)
+<img width="590" height="1140" alt="Screenshot_20260603_150139" src="https://github.com/user-attachments/assets/35b2d9e1-e44f-488f-ad03-d468d7698330" />
 
 
 
