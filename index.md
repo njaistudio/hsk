@@ -1,5 +1,4 @@
-# Welcome to 
-Learn Chinese: HSK 1-9
+# Welcome to Learn Chinese: HSK 1-9
 
 
 ## Instructions for deleting an account
